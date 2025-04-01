@@ -1,5 +1,7 @@
 # 相机结合 MediaPipe 姿态估计和卡通化
 
+![Example GIF](example.gif)
+
 这个 Python 项目使用奥比中光 3D 相机捕获视频，并使用 MediaPipe 处理视频以检测人体姿态，然后应用卡通效果。
 
 ## 主要功能
